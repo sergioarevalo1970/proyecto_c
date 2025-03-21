@@ -1,8 +1,12 @@
 # Nombre del proyecto: Conversor de Monedas
 ## Descripción:
-    El conversor de monedas realiza los calculos de matematicos para realizar la conversión
-    de dolares a quetzales, de quetzales a dolares, de Euros a Quetzales, de Quetzales a Euros
-    de Euros a Dolares y de Dolares a Euros
+    El conversor de monedas realiza los calculos de matematicos para realizar la conversión de:
+    1. Quetzales a Dólares
+    2. Quetzales a Euros
+    3. Dólares a Quetzales
+    4. Dólares a Euros
+    5. Euros a Quetzales
+    6. Euros a Dólares
 ## Prerrequisitos (tecnologías a instalar)
     Para poder elaborar el programa es necesario tener instalado el lenguage C++
 ## Pasos para su ejecución
